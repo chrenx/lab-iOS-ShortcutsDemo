@@ -1,9 +1,3 @@
-//
-//  FixedHeader.swift
-//  recreate-shortcut
-//
-//  Created by chrenx on 4/23/22.
-//
 
 import SwiftUI
 

@@ -1,9 +1,3 @@
-//
-//  ActionList.swift
-//  recreate-shortcut
-//
-//  Created by chrenx on 4/22/22.
-//
 
 import SwiftUI
 

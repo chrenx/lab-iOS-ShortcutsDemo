@@ -1,9 +1,3 @@
-//
-//  Actions.swift
-//  ShortCutsDemo
-//
-//  Created by chrenx on 4/26/22.
-//
 
 import Foundation
 import SwiftUI

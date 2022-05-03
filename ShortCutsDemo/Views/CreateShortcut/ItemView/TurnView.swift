@@ -1,9 +1,3 @@
-//
-//  TurnView.swift
-//  ShortCutsDemo
-//
-//  Created by CoderStar on 2022/5/1.
-//
 
 import SwiftUI
 

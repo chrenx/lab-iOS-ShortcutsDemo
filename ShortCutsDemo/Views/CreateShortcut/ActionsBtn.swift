@@ -1,9 +1,3 @@
-//
-//  ActionsBtn.swift
-//  ShortCutsDemo
-//
-//  Created by chrenx on 4/28/22.
-//
 
 import SwiftUI
 
